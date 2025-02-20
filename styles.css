@@ -1,18 +1,18 @@
 /*  your css code here. If applicable */
-.main{
+.main_container{
 	background-color: #f5f5f5;
 	padding: 30px
 }
 h1{
 	padding: 10px 0;
 }
-.testimonial_box{
+.testimonial{
 	padding: 20px;
 	border: 2px solid #ccc;
 	background-color: #fff;
 	margin-top: 20px;
 }
-p{
+p.text{
 	margin: 0;
 }
 .author{
